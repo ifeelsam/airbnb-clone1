@@ -3,7 +3,7 @@
 A pixel-perfect, behaviourally faithful clone of a real Airbnb listing page and
 its two overlay views, built as a take-home task.
 
-**Reference:** `https://airbnb-clone-umber-two.vercel.app`
+**Reference:** `https://airbnb-clone-pi-beryl-46.vercel.app/`
 **Listing:** _Romantic Jacuzzi 1BHK Candolim | Mirashya UG10_
 
 ## Three views
