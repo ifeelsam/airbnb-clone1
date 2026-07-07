@@ -16,6 +16,8 @@ export const photos: Photo[] = [
   { src: "/photos/bedroom.png", alt: "Bedroom with queen bed and mirror", room: "Bedroom" },
   { src: "/photos/exterior.png", alt: "Aerial view of the building", room: "Exterior" },
   { src: "/photos/living.png", alt: "Living room with sofa and dining area", room: "Living room 1" },
+  { src: "/photos/living-1.png", alt: "Living room with TV, dining table and open kitchen", room: "Living room 1" },
+  { src: "/photos/living-2.png", alt: "Living and dining area with leather sofa", room: "Living room 1" },
   { src: "/photos/lounge-3.png", alt: "Lounge seating with jacuzzi view", room: "Living room 2" },
   { src: "/photos/jacuzzi.png", alt: "Private jacuzzi with mood lighting", room: "Living room 2" },
   { src: "/photos/kitchen-1.png", alt: "Full kitchen with wooden cabinetry", room: "Full kitchen" },
