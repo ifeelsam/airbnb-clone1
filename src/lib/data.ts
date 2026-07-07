@@ -10,15 +10,18 @@ export type Photo = {
  * photo tour, grouped by room. Sourced from the reference listing.
  */
 export const photos: Photo[] = [
+  { src: "/photos/lounge-4.png", alt: "Jacuzzi lounge with wicker seating and coffee table", room: "Living room 2" },
+  { src: "/photos/lounge.png", alt: "Lounge seating area beside the jacuzzi", room: "Living room 2" },
+  { src: "/photos/lounge-2.png", alt: "Private jacuzzi on the wooden deck", room: "Living room 2" },
+  { src: "/photos/bedroom.png", alt: "Bedroom with queen bed and mirror", room: "Bedroom" },
+  { src: "/photos/exterior.png", alt: "Aerial view of the building", room: "Exterior" },
   { src: "/photos/living.png", alt: "Living room with sofa and dining area", room: "Living room 1" },
-  { src: "/photos/lounge.png", alt: "Jacuzzi lounge with wicker seating", room: "Living room 2" },
+  { src: "/photos/lounge-3.png", alt: "Lounge seating with jacuzzi view", room: "Living room 2" },
   { src: "/photos/jacuzzi.png", alt: "Private jacuzzi with mood lighting", room: "Living room 2" },
   { src: "/photos/kitchen-1.png", alt: "Full kitchen with wooden cabinetry", room: "Full kitchen" },
   { src: "/photos/kitchen-2.png", alt: "Kitchen counter with cooktop and appliances", room: "Full kitchen" },
-  { src: "/photos/bedroom.png", alt: "Bedroom with queen bed and mirror", room: "Bedroom" },
   { src: "/photos/bathroom.png", alt: "Full bathroom with walk-in shower", room: "Full bathroom" },
   { src: "/photos/gym.png", alt: "Shared gym with cardio equipment", room: "Gym" },
-  { src: "/photos/exterior.png", alt: "Aerial view of the building", room: "Exterior" },
   { src: "/photos/pool-1.png", alt: "Shared swimming pool courtyard", room: "Pool" },
   { src: "/photos/pool-2.png", alt: "Poolside loungers by the water", room: "Pool" },
   { src: "/photos/pool-3.png", alt: "Swimming pool with building view", room: "Pool" },
